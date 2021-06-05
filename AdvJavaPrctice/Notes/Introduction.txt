@@ -1,0 +1,38 @@
+Advanced Java Introduction:
+
+	Core Java, Advanced Java are not official terms
+	
+	Advanced Java : ( JDBC + Servlets + JSP ) is a technology
+	
+	As per Sun Micro Systems standards the java devided in to three parts
+		1. j2se	:	java 2 standard edition		:		corejava + JDBC
+		2. j2ee :   java 2 enterprise edition   :       servelets	jsp	jstl JPA webservices EJB xml.....
+		3. j2me :   java 2 micro edition     
+		
+	Advanced java syllabus:
+		1. JDBC 		: java database connectivity
+		2. Servlets	
+		3. JSP			: java server pages
+		4. JSTL			: java standard tag library
+		
+	Technology vs Frameworks:
+	
+		Technologies:
+			j2se	j2ee	j2me
+			 
+			Note: EJB also technology
+			
+		Frameworks:
+			Spring
+			Hibernate	( ORM : Object Relational Model )
+			JSF			( Java Server Faces )
+			struts
+			
+	Types of applications in Java
+	
+		1. Standalone/desktop/windows application		:	j2se ( technology )																||	.jar   ( Java archive files )
+		2. Web application								: 	Servlets JSP ( technologies )				||	struts JSF ( Frameworks )		||  .war   ( Web archive files )
+		3. Enterprise applications						:	EJB ( technology )							||  spring ( Framework )			||  .ear   ( enterprise archive files )
+		4. Distributed applications						:   webservices ( SOAP -- xml   REST---json )										||  .aar   ( application archive files )
+			
+		
