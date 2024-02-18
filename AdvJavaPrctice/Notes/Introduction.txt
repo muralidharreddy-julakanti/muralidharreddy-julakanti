@@ -52,7 +52,7 @@ Types of applications in Java
 		Identify the requested resource. 
 		process the request. 
 		Generate the response to client. 
-			ex: Tomcat	   --- Apache software foundation 
+			    ex: Tomcat	   --- Apache software foundation 
 				Web logics ---  Oracle 
 				Websphere  ---  IBM 
 				JBoss      ---  redhat 
