@@ -25,7 +25,7 @@ Advanced Java Introduction:
 		Frameworks:
 			Spring
 			Hibernate	( ORM : Object Relational Model )
-			JSF			( Java Server Faces )
+			JSF		( Java Server Faces )
 			struts
 			
 	Types of applications in Java
