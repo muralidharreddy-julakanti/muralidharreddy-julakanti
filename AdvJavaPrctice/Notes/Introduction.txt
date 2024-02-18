@@ -5,8 +5,8 @@ Advanced Java Introduction:
 	Advanced Java : ( JDBC + Servlets + JSP ) is a technology
 	
 	As per Sun Micro Systems standards the java devided in to three parts
-		1. j2se	:	java 2 standard edition		:		corejava + JDBC
-		2. j2ee :   java 2 enterprise edition   :       servelets	jsp	jstl JPA webservices EJB xml.....
+		1. j2se	:   java 2 standard edition	:	corejava + JDBC
+		2. j2ee :   java 2 enterprise edition   :       servelets, jsp,	jstl, JPA, webservices, EJB, xml.....
 		3. j2me :   java 2 micro edition     
 		
 	Advanced java syllabus:
