@@ -69,7 +69,7 @@ Types of applications in Java
 
 	Client side Technologies : 
 		The tech used to write the programming at client side. 
-			ex: html
+			    ex: html
 				css
 				js
 				AngularJS
