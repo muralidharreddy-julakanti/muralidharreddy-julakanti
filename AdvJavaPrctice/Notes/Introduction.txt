@@ -28,12 +28,12 @@ Advanced Java Introduction:
 			JSF		( Java Server Faces )
 			struts
 			
-	Types of applications in Java
+Types of applications in Java
 	
-		1. Standalone/desktop/windows application		:	j2se ( technology )																||	.jar   ( Java archive files )
-		2. Web application								: 	Servlets JSP ( technologies )				||	struts JSF ( Frameworks )		||  .war   ( Web archive files )
-		3. Enterprise applications						:	EJB ( technology )							||  spring ( Framework )			||  .ear   ( enterprise archive files )
-		4. Distributed applications						:   webservices ( SOAP -- xml   REST---json )										||  .aar   ( application archive files )
+1. Standalone/desktop/windows application : j2se ( technology )	            ||	.jar   ( Java archive files )
+2. Web application		          : Servlets JSP ( technologies )   ||	struts JSF ( Frameworks )		||  .war   ( Web archive files )
+3. Enterprise applications		  : EJB ( technology )		    ||  spring ( Framework )			||  .ear   ( enterprise archive files )
+4. Distributed applications		  : Webservices ( SOAP -- xml   REST---json )					||  .aar   ( application archive files )
 			
 	
 	Servlets & JSP are used to develop the web application
